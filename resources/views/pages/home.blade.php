@@ -3,7 +3,7 @@
 @section('title')
 
 @section('content')
-        <img src="/images/France.png" alt="France-flag">
+        <img src="{{ asset('images/France.png') }}" alt="France-flag" />
 
         <h1>Hello from France!</h1>
 
