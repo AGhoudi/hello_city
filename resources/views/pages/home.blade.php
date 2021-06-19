@@ -3,6 +3,8 @@
 @section('title')
 
 @section('content')
+        <img src="/images/France.png" alt="France-flag">
+
         <h1>Hello from France!</h1>
 
         <p>It's currently {{date('H:i:s')}}.</p>
