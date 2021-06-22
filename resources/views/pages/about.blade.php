@@ -1,6 +1,4 @@
-@extends('base')
-
-@section('title', 'About Us | ' . config('app.name'))
+@extends('layouts.base', ['title' => 'About Us | Hello City'])
 
 @section('content')
         <img src="{{ asset('images/link1986.png') }}" alt="link1986-avatar" class="my-12 rounded-full shadow-md">
