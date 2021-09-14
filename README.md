@@ -1,4 +1,3 @@
-# Hello_City
 
 ## __Objectif du projet :__ 
 
