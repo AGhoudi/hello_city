@@ -1,5 +1,4 @@
 
-## __Objectif du projet :__ 
 
 ## __Description :__
 
