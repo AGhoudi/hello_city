@@ -1,6 +1,5 @@
 
 
-## __Description :__
 
 
 ## __Stack utilisé :__
