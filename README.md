@@ -19,5 +19,4 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 <h2 align=center>🌐 Lien web du projet :</h2>
 
 <p align=center>Voici un lien pour tester le jeu:
-
- 
+<center>A Venir...
