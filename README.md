@@ -4,7 +4,7 @@
 
 <h2 align=center>📝 Description :</h2>
 
-<p align=center>Dans le cadre de ma recherche d'approfondissement,
+<p align=center>
 
 </p>
 
