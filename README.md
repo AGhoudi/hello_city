@@ -1,4 +1,4 @@
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/149981572-07267430-e388-47b0-884d-9f41d1e0ffcd.png" alt="hello_city"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>A Venir...</p>
 
@@ -19,4 +19,3 @@ A venir...
 
 <p align=center>Voici un lien pour tester le jeu:
 <center>A Venir...
-![hello_city](https://user-images.githubusercontent.com/27373255/149981572-07267430-e388-47b0-884d-9f41d1e0ffcd.png)
